@@ -27,8 +27,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![InstaP2](https://user-images.githubusercontent.com/97801601/159133752-92de7aa7-a2f0-4bdc-8027-e53e762d2288.gif)
 
-![InstaP2](https://user-images.githubusercontent.com/97801601/159133623-0e2618ce-498f-47b0-8038-d933edd6ca95.gif)
 
 
 
