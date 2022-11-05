@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif" width="250" height="550"/>
+<img src= "https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif" width="252" height="550"/>
 
 
 
