@@ -17,9 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![Instaby P1](https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif)
+<img src= "https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif" width="250" height="550"/>
 
 
 
@@ -41,6 +39,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![InstaP2](https://user-images.githubusercontent.com/97801601/159133752-92de7aa7-a2f0-4bdc-8027-e53e762d2288.gif)
+<img src= "https://user-images.githubusercontent.com/97801601/159133752-92de7aa7-a2f0-4bdc-8027-e53e762d2288.gif" width="250" height="550"/>
