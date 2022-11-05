@@ -1,11 +1,11 @@
-## Instagram Clone
+# Instagram Clone
 
 
-# Part II
+## Part II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-## User Stories
+### User Stories
 
 The following **required** functionality is completed:
 
@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] User can view comments on a post. (3pts)
 - [x] User can add a new comment. (5pts)
 
-## Video Walkthrough
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
@@ -26,9 +26,9 @@ Here's a walkthrough of implemented user stories:
 
 
 
-# Part I
+## Part I
 
-## User Stories
+### User Stories
 
 The following **required** functionality is completed:
 
@@ -39,7 +39,7 @@ The following **required** functionality is completed:
 - [x] User can view the last 20 posts. (4pts)
 
 
-## Video Walkthrough
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 ![Instaby P1](https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif)
