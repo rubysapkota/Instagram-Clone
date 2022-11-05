@@ -16,9 +16,11 @@ The following **required** functionality is completed:
 ### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Instaby P1](https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![Instaby P1](https://user-images.githubusercontent.com/97801601/156832037-802ac2c5-406b-4f85-a6e7-74ecef5fc48d.gif)
+
 
 
 
